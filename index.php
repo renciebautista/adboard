@@ -61,7 +61,7 @@
                         
                     <div class="item">
                         <div class="center">
-                          <img height="1078" src="assets/images/Safety Triangle 02.jpg" alt="">
+                          <img height="1079" src="assets/images/Safety Triangle 02.jpg" alt="">
                             <h2 id="lta">0</h2>
                             <h2 id="rwc">0</h2>
                             <h2 id="mta">0</h2>

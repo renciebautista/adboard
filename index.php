@@ -65,12 +65,11 @@
                 </div>
 
                 <div class="col-lg-4">
-                    <h2 id="plant_name">MPP</h2>
+                    <h2 id="plant_name" style="font-size:55px;">MPP</h2>
                 </div>
 
                 <div class="col-lg-4">
-                    <!-- <div id='date-part' class="text-center"></div> -->
-                    <div id='time-part' class="text-center"></div>
+                    <div id='time-part' style="font-size:55px;" class="text-center"></div>
                 </div>
 
                 <div class="col-lg-2">
@@ -86,7 +85,7 @@
                 <div class="center">
                   <h2 class="line_header">LINE 1</h2>
                   
-                  <h3>PRODUCT 1</h3>
+                  <h3 id="sku1"></h3>
                   <hr>
                   <div class="row center">
                   <div class="col-sm-6">
@@ -160,7 +159,7 @@
                 <div class="center">
                   <h2 class="line_header">LINE 2</h2>
                   
-                  <h3>PRODUCT 2</h3>
+                  <h3 id="sku2"></h3>
                   <hr>
                   <div class="row center">
                   <div class="col-sm-6">
@@ -232,13 +231,9 @@
             </div>
                     </div>
                     <div class="item">
-                      <div class="row">
-                        <div class="col-md-6 col-sm-12 col-xs-12 b-right">
-                          <div class="center">
+                      <div class="center">
                           <img src="assets/images/Safety Triangle 02.jpg" alt="">
                           </div>
-                        </div>
-                      </div>
                     </div>
                 </div>
             </div>
@@ -531,8 +526,10 @@
                     function(json){
                       l1_target.setValue(json.t1);
                       l1_actual.setValue(json.a1);
+                      $('#sku1').text(json.sku1);
                       l2_target.setValue(json.t2);
                       l2_actual.setValue(json.a2);
+                      $('#sku2').text(json.sku2);
 
                       
                 });

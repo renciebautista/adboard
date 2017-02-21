@@ -4,7 +4,7 @@ body {
     background: url(../images/binding_dark.png) repeat;
     color: #FFFFFF;
     margin-top: 30px;
-    margin: 10px;
+    margin: 1px;
 }
 
 .full_button .dropdown-menu {
@@ -56,7 +56,7 @@ body {
 
 
 .main_container {
-    margin: 20px;
+    /*margin: 20px;*/
     color: #FFF;
 }
 

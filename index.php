@@ -64,12 +64,12 @@
                     <img src="assets/images/FrieslandCampina.png" class="left-logo">
                 </div>
 
-                <div class="col-lg-4">
-                    <h2 id="plant_name" style="font-size:55px;">MPP</h2>
+                <div class="col-lg-2">
+                    <h2 id="plant_name">MPP</h2>
                 </div>
 
-                <div class="col-lg-4">
-                    <div id='time-part' style="font-size:55px;" class="text-center"></div>
+                <div class="col-lg-6">
+                    <div id='time-part' class="text-center"></div>
                 </div>
 
                 <div class="col-lg-2">
@@ -232,7 +232,7 @@
                     </div>
                     <div class="item">
                       <div class="center">
-                          <img src="assets/images/Safety Triangle 02.jpg" alt="">
+                          <img height="1080" src="assets/images/Safety Triangle 02.jpg" alt="">
                           </div>
                     </div>
                 </div>

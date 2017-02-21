@@ -99,24 +99,28 @@ hr{
     font-weight: bold;
 }
 .left-logo{
-    height: 100px;
+    padding-top: 10px;
+    height: 120px;
 }
 .right-logo{
     /*background-color: #FFFFFF;*/
     height: 160px;
-    margin-top: -25px;
+    /*margin-top: -10px;*/
     margin-bottom: -70px;
+    padding-right: 20px;
 }
 #date-part{
     font-size:  2.0em;
 }
 
 #time-part{
-    font-size:  5em;
+    padding-top: 40px;
+    font-size:  6em;
 }
 
 #plant_name{
-    font-size:  5em;
+    padding-top: 30px;
+    font-size:  6em;
 }
 
 h3 {

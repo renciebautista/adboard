@@ -232,7 +232,7 @@
                     </div>
                     <div class="item">
                       <div class="center">
-                          <img height="1080" src="assets/images/Safety Triangle 02.jpg" alt="">
+                          <img height="1070" src="assets/images/Safety Triangle 02.jpg" alt="">
                           </div>
                     </div>
                 </div>

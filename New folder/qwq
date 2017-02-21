@@ -1,0 +1,150 @@
+ <div class="item">
+                      <div class="row">
+                          <div class="col-lg-2">
+                              <img src="assets/images/FrieslandCampina.png" class="left-logo">
+                          </div>
+                          <div class="col-lg-2">
+                              <h2 id="plant_name">MPP</h2>
+                          </div>
+                          <div class="col-lg-6">
+                              <div id='time-part' class="text-center"></div>
+                          </div>
+                          <div class="col-lg-2">
+                              <img src="assets/images/Alaska_milk_logo_2016.png" class="pull-right right-logo">
+                          </div>
+                      </div>
+                      <div class="clearfix"></div>
+                      <hr>
+                      <div class="row">
+                          <div class="col-md-6 col-sm-12 col-xs-12 b-right">
+                              <div class="center">
+                                  <h2 class="line_header">LINE 1</h2>
+                                  <h3 id="sku1"></h3>
+                                  <hr>
+                                  <div class="row center">
+                                      <div class="col-sm-6">
+                                          <div>
+                                              <h3>TARGET</h3>
+                                              <div id="l1_target" class="counter"></div>
+                                          </div>
+                                      </div>
+                                      <div class="col-sm-6">
+                                          <div>
+                                              <h3>ACTUAL</h3>
+                                              <div id="l1_actual" class="counter"></div>
+                                          </div>
+                                      </div>
+                                  </div>
+                                  <div id='myChart1'></div>
+                              </div>
+                              <hr style="margin-top:-160px;">
+                              <div class="row center">
+                                  <div class="x_content">
+                                      <div>
+                                          <div class="row">
+                                          <div class="col-sm-2" style="padding:24px;">
+                                          <span style="font-size:40px;">S1</span>
+                                          </div>
+                                          <div class="col-sm-8">
+                                          <div id="myGoal1"></div>
+                                          </div>
+                                          <div class="col-sm-2" style="padding:24px;">
+                                          <span style="font-size:40px;">1000</span>
+                                          </div>
+                                          </div>
+                                          
+                                          <div class="row">
+                                          <div class="col-sm-2" style="padding:24px;">
+                                          <span style="font-size:40px;">S2</span>
+                                          </div>
+                                          <div class="col-sm-8">
+                                          <div id="myGoal2"></div>
+                                          </div>
+                                          <div class="col-sm-2" style="padding:24px;">
+                                          <span style="font-size:40px;">1000</span>
+                                          </div>
+                                          </div>
+                                          
+                                          <div class="row">
+                                          <div class="col-sm-2" style="padding:24px;">
+                                          <span style="font-size:40px;">S3</span>
+                                          </div>
+                                          <div class="col-sm-8">
+                                          <div id="myGoal3"></div>
+                                          </div>
+                                          <div class="col-sm-2" style="padding:24px;">
+                                          <span style="font-size:40px;">1000</span>
+                                          </div>
+                                          </div>
+                                          
+                                          </div>
+                                  </div>
+                              </div>
+                          </div>
+                          <div class="col-md-6 col-sm-12 col-xs-12 b-right">
+                              <div class="center">
+                                  <h2 class="line_header">LINE 2</h2>
+                                  <h3 id="sku2"></h3>
+                                  <hr>
+                                  <div class="row center">
+                                      <div class="col-sm-6">
+                                          <div>
+                                              <h3>TARGET</h3>
+                                              <div id="l2_target" class="counter"></div>
+                                          </div>
+                                      </div>
+                                      <div class="col-sm-6">
+                                          <div>
+                                              <h3>ACTUAL</h3>
+                                              <div id="l2_actual" class="counter"></div>
+                                          </div>
+                                      </div>
+                                  </div>
+                                  <div id='myChart2'></div>
+                              </div>
+                              <hr style="margin-top:-160px;">
+                              <div class="row center">
+                                  <div class="x_content">
+                                      <!-- <div>
+                                          <div class="row">
+                                          <div class="col-sm-2" style="padding:24px;">
+                                          <span style="font-size:40px;">S1</span>
+                                          </div>
+                                          <div class="col-sm-8">
+                                          <div id="myGoal4"></div>
+                                          </div>
+                                          <div class="col-sm-2" style="padding:24px;">
+                                          <span style="font-size:40px;">1000</span>
+                                          </div>
+                                          </div>
+                                          
+                                          <div class="row">
+                                          <div class="col-sm-2" style="padding:24px;">
+                                          <span style="font-size:40px;">S2</span>
+                                          </div>
+                                          <div class="col-sm-8">
+                                          <div id="myGoal5"></div>
+                                          </div>
+                                          <div class="col-sm-2" style="padding:24px;">
+                                          <span style="font-size:40px;">1000</span>
+                                          </div>
+                                          </div>
+                                          
+                                          <div class="row">
+                                          <div class="col-sm-2" style="padding:24px;">
+                                          <span style="font-size:40px;">S3</span>
+                                          </div>
+                                          <div class="col-sm-8">
+                                          <div id="myGoal6"></div>
+                                          </div>
+                                          <div class="col-sm-2" style="padding:24px;">
+                                          <span style="font-size:40px;">1000</span>
+                                          </div>
+                                          </div>
+                                          
+                                          </div> -->
+                                  </div>
+                              </div>
+                          </div>
+                      </div>
+                  </div>

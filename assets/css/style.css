@@ -140,3 +140,101 @@ hr {
 
 
 
+/*page 2*/
+#lta {
+    font-size: 6em;
+    position: absolute; 
+    top: 85px; 
+    /*left: 100; */
+    width: 108%;
+}
+#rwc {
+    font-size: 6em;
+    position: absolute; 
+    top: 260px; 
+    /*left: 100; */
+    width: 108%;
+}
+#mta {
+    font-size: 6em;
+    position: absolute; 
+    top: 430px; 
+    /*left: 100; */
+    width: 108%;
+}
+#fa {
+    font-size: 6em;
+    position: absolute; 
+    top: 610px; 
+    /*left: 100; */
+    width: 108%;
+}
+#nm_ty {
+    font-size: 6em;
+    position: absolute; 
+    top: 780px; 
+    /*left: 100; */
+    width: 98%;
+}
+#nm_cl {
+    font-size: 6em;
+    position: absolute; 
+    top: 780px; 
+    /*left: 100; */
+    width: 120.5%;
+}
+#nm_op {
+    font-size: 6em;
+    position: absolute; 
+    top: 780px; 
+    /*left: 100; */
+    width: 143%;
+}
+#so_ub {
+    font-size: 5em;
+    position: absolute; 
+    top: 990px; 
+    /*left: 100; */
+    width: 60%;
+}
+
+
+
+#so_uc {
+    font-size: 5em;
+    position: absolute; 
+    top: 990px; 
+    /*left: 100; */
+    width: 80%;
+}
+
+#so_ty {
+    font-size: 5em;
+    position: absolute; 
+    top: 990px; 
+    /*left: 100; */
+    width: 108%;
+}
+
+#so_cl {
+    font-size: 5em;
+    position: absolute; 
+    top: 990px; 
+    /*left: 100; */
+    width: 131%;
+}
+
+#so_op {
+    font-size: 5em;
+    position: absolute; 
+    top: 990px; 
+    /*left: 100; */
+    width: 154%;
+}
+#last_day{
+    font-size: 8em;
+    position: absolute; 
+    top: 625px; 
+    /*left: 100; */
+    width: 24%;
+}
